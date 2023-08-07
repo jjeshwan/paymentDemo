@@ -12,7 +12,7 @@ This repository contains automated test scripts to test the payment process on t
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/paymentDemo.git
+git clone https://github.com/jjeshwan/paymentDemo.git
 ```
 
 2. Navigate to the repository directory:
